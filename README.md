@@ -1,16 +1,8 @@
-# github_gallery
+# Getting Started
 
-A new Flutter project.
+Flutter app to explore github user accounts.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Example
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="428" alt="Screenshot 2021-10-26 at 1 02 04 PM" src="https://user-images.githubusercontent.com/22686425/138829910-9ed49c39-d213-4cd2-a339-c3a9345986d0.png">
